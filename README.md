@@ -6,7 +6,7 @@ Hope you enjoy!
 ## Mods
 - <strong>[Memory](https://github.com/fluffeliger/LWMemory)</strong><br>A Mod that grants you access to some storage devices so you dont have to build your own. Also you can modify the contents in the save file of the world: `data.logicworld`
 - <strong>[MoreGates](https://github.com/fluffeliger/LWMoreGates)</strong><br>Limited because you can only use an `AND` Gate and a too large `XOR` Gate? Download this Mod! It adds `NAND`, `OR`, `NOR`, `XNOR` and also a smaller version of the `XOR` Gate.
-- <strong>[Circuits](https://github.com/fluffeliger/LWCircuits)</strong><br>Adds a few circuits. Idk just look what you can do wehn loading up the mod.
+- <strong>[Circuits](https://github.com/fluffeliger/LWCircuits)</strong><br>Adds a few circuits. Idk just look what you can do when loading up the mod.
 
 ## Installing Mods
 To install a mod, just drag and drop the mod folder inside your `/path/to/Logic World/GameData` folder. In the `GameData` folder should also be a `MHG` Mod by default. Very easy actually.
