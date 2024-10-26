@@ -1,5 +1,5 @@
 # Logic World Mods
-This is a libary for all my LW Mods. Every mod i have created is listed here. Feel free to suggest fixes and dont mind reporting bugs.
+This is a libary for all my LW Mods. Every mod I've created is listed here. Feel free to suggest fixes and dont mind reporting bugs.
 
 Hope you enjoy!
 
